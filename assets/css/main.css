@@ -1,6 +1,8 @@
 body{
+    min-height: 200vh;
     background: #595d5f;
 }
+
 .logo{
     margin-left: 10px;
     font-weight: 300;
